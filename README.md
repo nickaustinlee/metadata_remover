@@ -19,7 +19,7 @@ my_virtual_environment\Scripts\activate
 ```
 source my_virtual_environment/bin/activate
 ```
-3. Install one dependency
+3. Install one dependency (you only need to do this once)
 ```
 pip install pillow
 ```
